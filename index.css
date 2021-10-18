@@ -1,0 +1,62 @@
+.head .firstline{
+    color:bisque;
+    text-decoration: underline;
+    display: flexbox;
+    position: relative;
+    text-align: center;
+    font-size: 50;
+    margin-top: 58;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.head .secondline{
+    color:bisque;
+    text-decoration: underline;
+    display: flexbox;
+    position: relative;
+    text-align: center;
+    font-size: 50;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    margin-top: 62;
+}
+
+.head2{
+    display: flexbox;
+    position: relative;
+    margin-top: 180;
+    height: 350;
+}
+
+.register{
+    background-color: aliceblue;
+    display: flexbox;
+    position: relative;
+    margin-top: 70;
+    height: 100px;
+    text-align: center;
+    font-size: 28;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+
+.login{
+    background-color: aliceblue;
+    display: flexbox;
+    position: relative;
+    height: 100;
+    text-align: center;
+    font-size: 28;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10;
+}
+
+#button1{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
